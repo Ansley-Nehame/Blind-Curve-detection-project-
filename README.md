@@ -7,10 +7,10 @@ This repository includes code which powers the blind curve detection and alert p
 
 // --- WiFi ---
 const char* ssid = "M35";
-const char* password = "ansley1234";
+const char* password = "ansley";
 
-String botToken = "8172178568:AAF9P8OuWXXsdEtD9LRPcbcbujUT8ExQMVQ";
-String chatID = "7618044021";
+String botToken = "8172178568:AAF9P8OuWXXsdEtD9LRPcbcbujU8ExQMVQ";
+String chatID = "761804021";
 
 // --- Pins ---
 #define PIR_PIN 12
